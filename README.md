@@ -6,7 +6,7 @@
 
 ## Usage:
 1. 引入jQuery文件
-2. 因为funny-title.js
+2. 引入funny-title.js
 3. 修改funny-title.js文件中的
 document.title="(●—●)"+oldTitle;
 改为自己需要的字符即可。
